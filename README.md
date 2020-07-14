@@ -1,2 +1,2 @@
-# llSPS-INT-2492-Coal-for-Metallurgical-Coking-Price-Prediction
+Machine Learning project
 Coal for Metallurgical Coking Price Prediction
